@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+*.h5
+
+# Dataset
+dataset/
+datasets/
+data/
+
+# Colab
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
